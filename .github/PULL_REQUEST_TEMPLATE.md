@@ -54,7 +54,7 @@ Closes #<!-- issue number, or "n/a" with a one-line reason if there is no issue 
 
 ## Checklist (Required — all must be checked)
 - [ ] One focused change (one feature/fix per PR; not a stack of unrelated work)
-- [ ] Branch is rebased on the latest `master` and has no merge conflicts
+- [ ] Branch is rebased on the latest `main` and has no merge conflicts
 - [ ] Tests added/updated for behavior changes
 - [ ] `pytest -q` is green on a clean checkout
 - [ ] `ruff check .` is clean

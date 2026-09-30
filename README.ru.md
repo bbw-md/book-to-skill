@@ -11,9 +11,9 @@
 </p>
 
 
-> **Актуальность перевода.** Источник истины — [английский README](README.md). Этот перевод может отставать от `master`.  
+> **Актуальность перевода.** Источник истины — [английский README](README.md). Этот перевод может отставать от `main`.  
 > Синхронизирован с EN на коммите [`903d102`](https://github.com/virgiliojr94/book-to-skill/commit/903d102fe8f67ea0fe3db7bea85eec7d8b505967) (2026-08-14).  
-> Чтобы увидеть drift: `git log 903d102..master -- README.md`
+> Чтобы увидеть drift: `git log 903d102..main -- README.md`
 
 <p align="center">
 <strong>Превратите любую техническую книгу, папку документов или набор источников в единый agent skill — чтобы изучать, ссылаться и использовать в GitHub Copilot CLI, Amp, Claude Code, Hermes Agent или OpenCode, OpenClaw.</strong></p>

@@ -74,7 +74,7 @@ from Conventional Commit messages — do not hand-edit it:
 git-cliff --tag vX.Y.Z --unreleased --prepend CHANGELOG.md
 # 3. commit, tag, push
 git commit -am "chore(release): vX.Y.Z"
-git tag vX.Y.Z && git push origin master vX.Y.Z
+git tag vX.Y.Z && git push origin main vX.Y.Z
 # 4. publish a GitHub Release using the new CHANGELOG section as notes
 ```
 
