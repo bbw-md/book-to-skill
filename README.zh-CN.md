@@ -10,9 +10,9 @@
   <a href="README.zh-CN.md"><strong>简体中文</strong></a>
 </p>
 
-> **翻译说明。** 以[英文 README](README.md) 为准。本翻译可能落后于 `master`。  
+> **翻译说明。** 以[英文 README](README.md) 为准。本翻译可能落后于 `main`。  
 > 与英文版同步于 commit [`907be50`](https://github.com/virgiliojr94/book-to-skill/commit/907be508ee17428fea0179f9996bde80e5282a0f)（2026-08-31）。  
-> 查看差异：`git log 907be50..master -- README.md`
+> 查看差异：`git log 907be50..main -- README.md`
 
 <p align="center">
 <strong>将任意技术书籍、文档文件夹或资料集合，转换为统一的 Agent Skill——可在 GitHub Copilot CLI、Amp、Claude Code、Hermes Agent 或 OpenCode, OpenClaw 中随时学习、查阅并在工作中使用。</strong></p>
